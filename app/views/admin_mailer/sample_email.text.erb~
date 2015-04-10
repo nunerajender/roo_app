@@ -1,0 +1,3 @@
+Hi <%= @page.name %>
+Sample mail sent using smtp.
+
